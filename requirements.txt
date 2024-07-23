@@ -1,0 +1,8 @@
+# run the following commands in ternminal to install the reqyired packages for the project
+
+pip install speech_recognition
+pip install pyttsx3
+pip install pywhatkit
+pip install datetime
+pip install wikipedia
+pip install pyjokes
