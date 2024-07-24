@@ -1,5 +1,5 @@
 # virtual-assistant---python
-a simple assistant built using python's inbuilt libraries
+a simple virtual assistant built using python's inbuilt libraries
 current functionalities :
 - search on wikipedia
 - date,time
